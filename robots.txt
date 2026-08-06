@@ -1,0 +1,6 @@
+---
+robots: noindex
+---
+
+User-agent: *
+Allow: /
