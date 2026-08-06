@@ -1,6 +1,6 @@
 # ガイド画像
 
-App Store 提出用スクショ（`AppStoreAssets/Screenshots-6.7/Upload-ASC-6.5/`）から Web 用に縮小した JPEG です（幅おおよそ 560px）。
+App Store 提出用スクショ（`AppStoreAssets/Screenshots-6.7/Upload-ASC-6.5/`）から Web 用に縮小した JPEG です（幅 **180px**・FluteTone ガイドと同寸）。
 
 | ファイル | 内容 |
 |----------|------|
