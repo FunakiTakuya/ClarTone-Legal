@@ -3,6 +3,8 @@
 **対象バージョン:** 1.0.0  
 **最終更新:** 2026-08-05
 
+<p class="lang-switch"><strong>日本語</strong> · <a href="support-en">English</a></p>
+
 ## お問い合わせ
 
 メール: funta@ymail.ne.jp

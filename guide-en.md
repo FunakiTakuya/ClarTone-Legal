@@ -7,9 +7,9 @@
 
 This page is the user guide for **ClarTone**, a clarinet tone-production practice app. Use it when you want a screen-by-screen walkthrough after the short in-app tutorial (**Settings → Getting started**).
 
-- [Support](support)
-- [Privacy Policy](privacy-policy)
-- [Terms of Use](terms-of-use)
+- [Support](support-en)
+- [Privacy Policy](privacy-policy-en)
+- [Terms of Use](terms-of-use-en)
 
 ---
 
@@ -161,9 +161,9 @@ Buy or restore in **Settings → Subscription**. Cancel in iOS **Apple ID → Su
 
 ## Related pages
 
-- [Support](support)
-- [Privacy Policy](privacy-policy)
-- [Terms of Use](terms-of-use)
+- [Support](support-en)
+- [Privacy Policy](privacy-policy-en)
+- [Terms of Use](terms-of-use-en)
 - [Specified Commercial Transactions notice](tokushoho)
 
 ---
