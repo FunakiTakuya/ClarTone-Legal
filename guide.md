@@ -1,11 +1,70 @@
-# ClarTone — 使い方ガイド
+---
+title: ClarTone｜クラリネット音出し・ロングトーン練習アプリ使い方ガイド
+description: >-
+  クラリネット初心者向けの無料音出し練習アプリ「ClarTone」。マイクでピッチとキープ秒数を表示、
+  ロングトーン・リード記録・L0〜L3無料。使い方ガイドと App Store へのインストール案内。
+image: /images/guide-hero.png
+---
+
+# ClarTone｜クラリネット音出し・ロングトーン練習（使い方ガイド）
 
 **対象バージョン:** 1.0.0  
 **最終更新日:** 2026-08-06
 
 <p class="lang-switch"><strong>日本語</strong> · <a href="guide-en">English</a></p>
 
-本ページは **ClarTone**（クラリネット音出し練習）の使い方ガイドです。アプリ内の短いチュートリアル（設定 → 使い方）のあとに、操作を画面つきで確認したいときにご覧ください。
+**ClarTone** は、クラリネット初心者の **音出し・ロングトーン** を、マイク入力の **ピッチとキープ秒数** で見える化する iPhone / iPad 用練習アプリです。  
+部活やレッスンで「音が出ない」「音程が安定しない」「リードが合わない」ときの補助に使えます。**L0〜L3 は無料**です。
+
+| 場所 | 表示名 |
+|------|--------|
+| App Store | **ClarTone** |
+| ホーム画面 | **ClarTone** |
+| アプリ内 | **ClarTone** / **ClarTone Pro** |
+
+**まずはインストール:** [App Store で開く（ClarTone）](https://apps.apple.com/app/id6798112668)  
+（下の [アプリを入れる](#アプリを入れる) に QR コードもあります）
+
+本ページは画面つきの操作ガイドです。アプリ内の短いチュートリアル（設定 → 使い方）のあとに、詳しく確認したいときにもご覧ください。
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ClarTone",
+  "alternateName": ["ClarTone - クラリネット音出し練習", "クラリネット 音出し 練習"],
+  "operatingSystem": "iOS",
+  "applicationCategory": "MusicApplication",
+  "description": "クラリネット初心者向けの音出し・ロングトーン練習アプリ。マイクでピッチとキープ秒数を表示。L0〜L3無料。リード記録・口元カメラ（Pro）。",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "JPY"
+  },
+  "url": "https://apps.apple.com/app/id6798112668",
+  "downloadUrl": "https://apps.apple.com/app/id6798112668",
+  "inLanguage": ["ja", "en"]
+}
+</script>
+
+<p align="center">
+  <img src="images/guide-hero.png" alt="ClarToneのホーム画面。L0〜L3の音出し練習と ClarTone Pro の案内" width="360" style="max-width: 100%; height: auto; border-radius: 12px;" />
+</p>
+
+## 目次
+
+1. [ホームで練習を選ぶ](#1-ホームで練習を選ぶ)
+2. [練習中の見かた](#2-練習中の見かた)
+3. [パネルレイアウトの変更](#3-パネルレイアウトの変更)
+4. [パネルの説明](#4-パネルの説明)
+5. [練習の振り返り](#5-練習の振り返り)
+6. [リードの管理](#6-リードの管理clartone-固有)
+7. [ClarTone Pro](#7-clartone-pro)
+8. [無料と Pro のちがい](#8-無料と-pro-のちがい)
+9. [口元／リードカメラ（Pro）](#9-口元リードカメラpro)
+10. [進捗と履歴](#10-進捗と履歴)
+11. [アプリを入れる](#アプリを入れる)
+12. [困ったとき](#困ったとき)
 
 - [サポート（お問い合わせ）](support)
 - [プライバシーポリシー](privacy-policy)
@@ -159,11 +218,42 @@ Pro では次が使えます。
 
 ---
 
+## アプリを入れる
+
+無料で始められます（L4 以降や口元カメラなどは ClarTone Pro）。
+
+**ストアで開く:** [ClarTone（App Store）](https://apps.apple.com/app/id6798112668)
+
+<p align="left">
+  <img src="images/app-store-qr.png" alt="ClarTone を App Store で開く QR コード" width="160" style="max-width: 160px; width: 160px; height: auto;" />
+</p>
+
+1. iPhone / iPad のカメラで QR を写す → 表示されたリンクをタップ  
+2. App Store で **入手**（または **再ダウンロード**）をタップ
+
+検索で探すときは App Store で **「ClarTone」** または **「クラリネット 音出し」** と入力しても見つかります。
+
+---
+
+## 困ったとき
+
+| 状況 | 対処 |
+|------|------|
+| ピッチが反応しない | マイク権限を許可。息を安定させて近づける。設定で基準ピッチ（A）を確認 |
+| Pro を買ったのに使えない | 設定 → サブスクリプション → **購入を復元する** |
+| カメラが出ない | Pro 契約とパネルレイアウトで口元パネルがオンか確認。カメラ権限を許可 |
+| 記録を消したい | 設定 → 練習記録 |
+
+その他の質問は [サポート](support) をご覧ください。
+
+---
+
 ## 関連ページ
 
 - [サポート](support)
 - [プライバシーポリシー](privacy-policy)
 - [利用規約](terms-of-use)
 - [特定商取引法に基づく表記](tokushoho)
+- [English User Guide](guide-en)
 
 ---

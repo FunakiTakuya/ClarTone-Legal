@@ -1,11 +1,54 @@
-# ClarTone — User Guide
+---
+title: ClarTone — Clarinet tone & long-tone practice (User Guide)
+description: >-
+  ClarTone is a free beginner clarinet practice app that shows pitch and hold time
+  from the microphone. Long tones, reed tracking, L0–L3 free. Install from the App Store.
+image: /images/guide-hero.png
+---
+
+# ClarTone — Clarinet tone & long-tone practice (User Guide)
 
 **Version:** 1.0.0  
 **Last updated:** 2026-08-06
 
 <p class="lang-switch"><a href="guide">日本語</a> · <strong>English</strong></p>
 
-This page is the user guide for **ClarTone**, a clarinet tone-production practice app. Use it when you want a screen-by-screen walkthrough after the short in-app tutorial (**Settings → Getting started**).
+**ClarTone** is an iPhone / iPad practice app for beginner clarinetists. It visualizes **pitch and hold time** from the microphone so you can work on first tone and long tones. Levels **L0–L3 are free**.
+
+| Where | Name |
+|------|------|
+| App Store | **ClarTone** |
+| Home screen | **ClarTone** |
+| In-app | **ClarTone** / **ClarTone Pro** |
+
+**Install:** [Open ClarTone on the App Store](https://apps.apple.com/app/id6798112668)  
+(See also [Get the app](#get-the-app) for a QR code.)
+
+This page is a screen-by-screen walkthrough after the short in-app tutorial (**Settings → Getting started**).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ClarTone",
+  "alternateName": ["ClarTone clarinet practice", "clarinet tone practice"],
+  "operatingSystem": "iOS",
+  "applicationCategory": "MusicApplication",
+  "description": "Beginner clarinet tone and long-tone practice app. Microphone pitch and hold display. L0–L3 free. Reed tracking and mouth camera (Pro).",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "JPY"
+  },
+  "url": "https://apps.apple.com/app/id6798112668",
+  "downloadUrl": "https://apps.apple.com/app/id6798112668",
+  "inLanguage": ["en", "ja"]
+}
+</script>
+
+<p align="center">
+  <img src="images/guide-hero.png" alt="ClarTone home screen with free L0–L3 practices and ClarTone Pro unlock" width="360" style="max-width: 100%; height: auto; border-radius: 12px;" />
+</p>
 
 - [Support](support-en)
 - [Privacy Policy](privacy-policy-en)
@@ -159,11 +202,29 @@ Buy or restore in **Settings → Subscription**. Cancel in iOS **Apple ID → Su
 
 ---
 
+## Get the app
+
+Start free (L4+ and mouth camera require ClarTone Pro).
+
+**Open on the App Store:** [ClarTone](https://apps.apple.com/app/id6798112668)
+
+<p align="left">
+  <img src="images/app-store-qr.png" alt="QR code to open ClarTone on the App Store" width="160" style="max-width: 160px; width: 160px; height: auto;" />
+</p>
+
+1. Scan the QR with your iPhone / iPad camera, then tap the link  
+2. Tap **Get** (or **Redownload**) on the App Store
+
+You can also search the App Store for **“ClarTone”** or **“clarinet tone”**.
+
+---
+
 ## Related pages
 
 - [Support](support-en)
 - [Privacy Policy](privacy-policy-en)
 - [Terms of Use](terms-of-use-en)
 - [Specified Commercial Transactions notice](tokushoho)
+- [日本語の使い方ガイド](guide)
 
 ---

@@ -1,6 +1,5 @@
----
-robots: noindex
----
-
 User-agent: *
 Allow: /
+
+Sitemap: https://funakitakuya.github.io/ClarTone-Legal/sitemap.xml
+Sitemap: https://funakitakuya.github.io/ClarTone-Legal/sitemap.txt
