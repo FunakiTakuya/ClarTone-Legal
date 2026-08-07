@@ -8,7 +8,7 @@ image: /images/guide-hero.png
 
 # ClarTone — Clarinet tone & long-tone practice (User Guide)
 
-**Version:** 1.0.0  
+**Version:** 1.0.0 (Build 2)
 **Last updated:** 2026-08-06
 
 <p class="lang-switch"><a href="guide">日本語</a> · <strong>English</strong></p>
@@ -58,7 +58,7 @@ This page is a screen-by-screen walkthrough after the short in-app tutorial (**S
 
 ## 1. Choose a practice on Home
 
-Home lists practice levels. **L0–L3 are free**; **L4 and later require ClarTone Pro** (some levels show as Coming soon). Tapping a locked row opens the Pro upgrade sheet.
+Home lists practice levels. **L0–L3 are free**; **L4–L13 require ClarTone Pro** (L14+ may show as Coming soon). Tapping a locked row opens the Pro upgrade sheet.
 
 You can also check your streak and open the progress hub from the chart icon in the top right.
 
@@ -153,7 +153,7 @@ On clarinet, noting which reed you used makes later review easier.
 2. When a reed wears out, mark it **retired** (archive instead of delete so past history still resolves)
 3. Optionally attach the reed you used on the preview or result screen (last choice is the default)
 
-Deeper reed-by-reed analytics are planned for a later update.
+Deeper reed-by-reed insights (usage, scores, brand match) are available with **ClarTone Pro**. Lifetime estimates are not provided.
 
 ---
 
@@ -161,7 +161,8 @@ Deeper reed-by-reed analytics are planned for a later update.
 
 Pro unlocks:
 
-- Levels from L4 onward (higher / scale work; some levels may be Coming soon)
+- L4–L13 practice (higher tones, scales, register work, slurs; L14+ may show as Coming soon)
+- Reed insights (usage, scores, brand match)
 - Mouth/reed camera panels and review video panels
 - Unlimited history
 - Per-level growth charts
@@ -176,10 +177,11 @@ Buy or restore in **Settings → Subscription**. Cancel in iOS **Apple ID → Su
 
 | Item | Free | Pro |
 |------|------|------|
-| Levels | L0–L3 | L4+ (except Coming soon) |
+| Levels | L0–L3 | L4–L13 (except Coming soon L14+) |
 | Audio review | Yes | Yes |
 | Mouth/reed camera | — | Yes |
 | Reed register & session link | Yes | Yes |
+| Reed insights | — | Yes |
 | History | Last 5 sessions | Unlimited |
 | Growth charts | — | Yes |
 

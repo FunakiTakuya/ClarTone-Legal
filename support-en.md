@@ -1,6 +1,6 @@
 # Support — ClarTone
 
-**Version:** 1.0.0  
+**Version:** 1.0.0 (Build 2)  
 **Last updated:** 2026-08-06
 
 <p class="lang-switch"><a href="support">日本語</a> · <strong>English</strong></p>
