@@ -8,8 +8,8 @@ image: /images/guide-hero.png
 
 # ClarTone — Clarinet tone & long-tone practice (User Guide)
 
-**Version:** 1.0.0 (Build 2)
-**Last updated:** 2026-08-06
+**Version:** 1.0.2  
+**Last updated: 2026-09-12
 
 <p class="lang-switch"><a href="guide">日本語</a> · <strong>English</strong></p>
 
@@ -58,7 +58,8 @@ This page is a screen-by-screen walkthrough after the short in-app tutorial (**S
 
 ## 1. Choose a practice on Home
 
-Home lists practice levels. **L0–L3 are free**; **L4–L13 require ClarTone Pro** (L14+ may show as Coming soon). Tapping a locked row opens the Pro upgrade sheet.
+Home lists practice levels. **L0–L3 are free**; **L4–L13 require ClarTone Pro** (L14+ may show as Coming soon). Tapping a locked row opens the Pro upgrade sheet.  
+Use **ⓘ** on a level to read “why this practice” (Coming soon rows already show that text, so they have no ⓘ).
 
 You can also check your streak and open the progress hub from the chart icon in the top right.
 
@@ -68,7 +69,8 @@ You can also check your streak and open the progress hub from the chart icon in 
 
 ## 2. During practice
 
-Confirm the target tone in preview, then Listen → countdown starts the session. The **REC** indicator means the practice session is being recorded.
+Confirm the target tone in preview, then Listen → countdown starts the session. The **REC** indicator means the practice session is being recorded.  
+Preview also shows “why this practice” (**expanded the first time** you open that level; later use ⓘ). The same tip appears on the results screen.
 
 See [§4 Panel reference](#4-panel-reference) for what each panel means, and [§3 Changing panel layout](#3-changing-panel-layout) to show, hide, resize, or reorder panels.
 
