@@ -8,8 +8,8 @@ image: /images/guide-hero.png
 
 # ClarTone — Clarinet tone & long-tone practice (User Guide)
 
-**Version:** 1.0.2  
-**Last updated: 2026-09-12
+**Version:** 1.2.0  
+**Last updated:** 2026-09-29
 
 <p class="lang-switch"><a href="guide">日本語</a> · <strong>English</strong></p>
 
@@ -69,7 +69,7 @@ You can also check your streak and open the progress hub from the chart icon in 
 
 ## 2. During practice
 
-Confirm the target tone in preview, then Listen → countdown starts the session. The **REC** indicator means the practice session is being recorded.  
+Confirm the target tone in preview, then Listen → countdown starts the session. The reference tone auto-plays when you enter Listen; tap to stop/play, or press and hold to sustain. The **REC** indicator means the practice session is being recorded.  
 Preview also shows “why this practice” (**expanded the first time** you open that level; later use ⓘ). The same tip appears on the results screen.
 
 See [§4 Panel reference](#4-panel-reference) for what each panel means, and [§3 Changing panel layout](#3-changing-panel-layout) to show, hide, resize, or reorder panels.
@@ -113,7 +113,7 @@ Turning on a Pro-only panel (such as mouth camera) on the free plan opens the up
 | Stability | How steady the pitch is right now (live) |
 | Hold | Seconds held inside the target zone |
 | Mic input | Input level—if low, move closer or blow more steadily |
-| Coach | Short tips (too high/low, near tune, need more sound) |
+| Coach | Short tips (too high/low, near tune, need more sound) while practicing |
 | Input waveform | Attack and continuity of your sound |
 | Harmonic balance | Fundamental and overtones as a tone-clarity cue |
 | Scale progress | (Scale levels) How many scale notes you cleared |
@@ -130,6 +130,7 @@ Turning on a Pro-only panel (such as mouth camera) on the free plan opens the up
 | Clarity / Stability | Peak values for this session |
 | Pitch accuracy | How close you stayed to the target on average |
 | Harmonic balance | Clarity / resonance cue |
+| Coach | Tips during review (updates with playback position) |
 | This mouth video (Pro) | Mouth/reed video for this session (synced with audio) |
 | Favorite mouth video (Pro) | Comparison clip; if none is saved, a sample framing guide is shown |
 
